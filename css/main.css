@@ -1,0 +1,177 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+}
+
+header{
+	padding: 40px 0 20px 0;
+}
+
+.container{
+	width: 1232px;
+	margin: 0 auto;
+}
+
+.Home{
+	color: #59CA31;
+}
+
+.Menu{
+	color: #59CA31;
+}
+
+.Takeaway{
+	color: #59CA31;
+}
+
+.Contact{
+	color: #59CA31;
+}
+
+/*.main_page{
+	padding: 40px 0 20px 0 ;
+}
+*/
+/*<--/////////-->*/
+.search a{
+	background-color: black;
+	width: 30px;
+}
+
+nav{
+	display: flex;
+	justify-content: space-between;
+	width: 904px;
+}
+
+menu ul{
+	display: flex;
+	list-style: none;  /*убираем точки*/
+	width: 740px;
+	justify-content: space-between;
+}
+
+menu li a{
+	font-weight: 500;
+	color: black;
+	text-decoration: none;
+}	
+
+h1{
+	font-weight: 700;
+	font-size: 60px;
+	line-height: 73px;
+	width: 668px;
+	padding-top: 154px;
+}
+
+.title span{
+	color: #59CA31;
+}
+
+.title p{
+	font-weight: 300;
+	margin-top: 10px;
+	width: 644px;
+	margin-bottom: 50px;
+}
+
+.main-part__button{
+	padding: 18px 89px;
+	border-radius: 15px;
+	background-color: black;
+	color: white;
+	border: none;
+	margin-left: 488px;
+}
+
+/*new page*/
+
+.menu-list h2{
+	font-family: 'Moon Dance', cursive;
+	font-size: 128px;
+	text-align: center;
+	color: #59CA31;
+	font-weight: 400;
+}
+
+.list__item{
+	display: flex;
+}
+
+.list__text{
+	width: 271px;
+	margin-left: 40px;
+}
+
+.list__item h3{
+	font-family: 'Moon Dance', cursive;
+	font-size: 64px;
+	font-weight: 400;
+	color: #59CA31;
+}
+
+.list__item p{
+	font-family: 'Moon Dance';
+}
+
+.second-dish, .fourth-dish{
+	flex-direction: row-reverse;
+}
+
+.second-dish__text{
+	margin-right: 40px;
+	width: 296px;
+}
+
+.fourth-dish__text{
+	margin-right: 40px;
+}
+
+footer{
+	text-align: center;
+	padding: 70px 0 40px 0;
+}
+
+footer h2{
+	font-family: 'Moon Dance', cursive;
+	font-size: 64px;
+	color: black;
+	font-weight: 400;
+}
+
+.terms h4{
+	font-weight: 200;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.terms p{
+	font-weight: 100;
+	font-size: 15px;
+}
+
+/*new page*/
+
+.title h2{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 60px;
+	width: 770px;
+	margin-top: 154px;
+}
+
+.takeaway-button{
+	margin: 0;
+}
+
+.title__addition{
+	font-weight: 600;
+	font-size: 11px;
+}
