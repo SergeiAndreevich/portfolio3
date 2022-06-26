@@ -175,3 +175,58 @@ footer h2{
 	font-weight: 600;
 	font-size: 11px;
 }
+
+/*new page*/
+
+.phone{
+	padding-top: 154px;
+}
+
+.phone__heading{
+	display: flex;
+	align-items: center;
+	margin-bottom: 27px;
+}
+
+.phone__heading h2{
+	margin-left: 19px;
+}
+
+.info p{
+	font-family: 'Montserrat';
+	font-weight: 600;
+	font-size: 32px;
+	color: #59CA31;
+}
+
+.mail__heading{
+	display: flex;
+	align-items: center;
+	padding-top: 70px;
+	margin-bottom: 27px;
+}
+
+.mail__heading h2{
+	margin-left: 37px;
+}
+
+.location{
+	display: flex;
+	align-items: center;
+	padding-top: 70px;
+	margin-bottom: 30px;
+}
+
+.location h2{
+	margin-left: 25px;
+}
+
+.info__button{
+	padding: 8px 77px;
+	border: none;
+	border-radius: 22px;
+	color: white;
+	background-color: black;
+	font-weight: 500;
+    font-size: 48px;
+}
